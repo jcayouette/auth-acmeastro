@@ -6,5 +6,6 @@ export default function Home() {
                 <h2>Home View</h2>
                 <p>Authenticated and unauthenticated users have access.</p>
             </div>
+
         );
     }
